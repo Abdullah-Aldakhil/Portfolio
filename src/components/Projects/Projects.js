@@ -12,7 +12,6 @@ function Projects() {
         </h1>
       </Container>
     </Container>
-    
   );
 }
 
